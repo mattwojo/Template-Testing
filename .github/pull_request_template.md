@@ -19,3 +19,6 @@ Type of Change:
 
 Reason for Priority *(optional)*:  
 Briefly explain why this priority is appropriate.
+
+## Deadline *(optional)*:
+Is there a targeted deadline associated with this PR to align with an event, feature release, etc. requiring the PR to be merged at a specific day or time?
