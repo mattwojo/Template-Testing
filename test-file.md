@@ -22,4 +22,3 @@ This article enables you to contribute an update and then walk through the PR pr
 We want the contribution process to be a intuitive, low-barrier process that clearly communicates expectations, priorities, expected turn-around times, and who is currently designated to take action in order to resolve and merge the PR.
 
 That's all folks.
-
