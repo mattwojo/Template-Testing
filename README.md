@@ -1,4 +1,8 @@
-# Service-Level Agreement for PR response and resolution
+# Test the proposed PR template
+
+The following SLA and workflow update adds a template providing more definition and a priority level to each PR being contributed to the azure-ai-docs-pr repo. Please review the proposed workflow below and test the PR template by contributing an update to the `test-file.md` or creating your own file to add to the repo.
+
+## Service-Level Agreement for PR response and resolution
 
 SLAs are based on priority with the following estimates.
 
